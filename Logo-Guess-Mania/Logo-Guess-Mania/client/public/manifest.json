@@ -1,0 +1,22 @@
+{
+  "name": "Guess the Car Brand",
+  "short_name": "Car Logo Quiz",
+  "description": "Guess car brands by their logos across multiple difficulty levels.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#FF4500",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
